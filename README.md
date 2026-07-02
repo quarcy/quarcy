@@ -2,8 +2,6 @@
 
 I'm:
 
-Trash at python
-Bad at designing
-New to blender.
+Trash at python • Bad at designing • New to blender
 
 Perfect.
